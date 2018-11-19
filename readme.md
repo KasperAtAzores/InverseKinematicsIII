@@ -9,7 +9,7 @@ The process of setting the **angles** of each child compared to its parent. You 
 An amatature can have several hierarchies of bones. If that is the case, each hierarchy must be posed on its own.
 
 ### Rig
-The armature can be used to control a mesh. The mesh is deformed by the armature.
+The armature can be used to control a mesh. The mesh is deformed by the armature. The precise way this is done is using a rigging algorithm.
 
 ## Inverse kinematics
 Mostly as an animator you do not have the rotations as the goal, but the final position of say a foot or a hand, and have the computer compute the angles of the bones necessary to put the hand there.
