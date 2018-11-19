@@ -31,7 +31,7 @@ The IK bone and its child (the foot) is disconnected from the leg.
 
 The inverse kinematics constraint is placed on the **lower leg**. 
 
-<img width="50%" src="IK.png">
+<img width="30%" src="IK.png">
 
 The way the foot becomes connected to the lower leg is because the foot_ik is set as target of the IK constraint.
 
